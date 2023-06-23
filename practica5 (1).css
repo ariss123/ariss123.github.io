@@ -1,0 +1,36 @@
+/*
+practica5css
+*/
+body{
+	color: black;
+}
+h1{
+	color: black;
+	text-align: center;
+}
+div{
+	width: 200px;
+	height: 200px;
+	padding: 50px;
+	text-align: 40px;
+}
+#cajaNegra{
+	background-color:#8DC4EB;
+	    float: left;
+}
+#cajaAzul{
+	background-color:#6F89E3;
+	     float: right;
+}
+#cajaAzul{
+	background-color:#6F89E3;
+	    float: left;
+}
+#cajaRoja{
+	background-color:#EB928E;
+	float: right;
+}
+#cajaNegra{
+	background-color:#8DC4EB;
+	    float: left;
+}
